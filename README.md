@@ -6,6 +6,6 @@ A Flutter Profile App with Fade in animation and nice/simple UI design
 
 Welcome to the profile app screen with fade in animation.
 
-![Main Screen](assets/img/jorja.jpg)
+![Main Screen](assets/img/profile.png)
 
 
