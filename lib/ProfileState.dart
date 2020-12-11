@@ -67,7 +67,7 @@ class _ProfileStateState extends State<ProfileState> {
                                   shape: BoxShape.circle,
                                   image: DecorationImage(
                                     fit: BoxFit.fill,
-                                    image: AssetImage('assets/img/woman.png'),
+                                    image: AssetImage('assets/img/jorja.jpg'),
                                   ),
                                 ),
                               ),
@@ -76,7 +76,7 @@ class _ProfileStateState extends State<ProfileState> {
                         ),
                         SizedBox(height:8.0),
                         Text('Jorja Smith', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 21.0, color: Colors.white),),
-                        Text('Resident at the Base', style: TextStyle(fontWeight: FontWeight.normal, fontSize: 18.0, color: Colors.white54),),
+                        Text('This is me, Jorja', style: TextStyle(fontWeight: FontWeight.normal, fontSize: 18.0, color: Colors.white54),),
                         SizedBox(height: 10.0),
                         /* MaterialButton(
                           onPressed: () {},
